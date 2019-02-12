@@ -1,3 +1,3 @@
-module helloworld {
-
+module easytext.analysis {
+    exports javamodularity.easytext.analysis;
 }
